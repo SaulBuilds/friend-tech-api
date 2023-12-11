@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import ResponseComponent from '../components/ResponseComponent';
+import ResponseComponent from '../ResponseComponent';
 import {
     getEvents,
     getUserDetails,
